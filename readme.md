@@ -286,18 +286,18 @@ Python | Pandas | NumPy | SQL | Microsoft SQL Server | Data Cleaning | Data Tran
 ## 📊 Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](./Screenshots/powerbi/01-executive-overview.png)
+![Executive Overview](screenshots/powerbi/01-executive-overview.png)
 
 ### 2. Customer Value Analysis
-![Customer Value Analysis](./Screenshots/powerbi/02-customer-value.png)
+![Customer Value Analysis](screenshots/powerbi/02-customer-value.png)
 
 ### 3. Customer Retention & Churn
-![Customer Retention & Churn](./Screenshots/powerbi/03-customer-retention.png)
+![Customer Retention & Churn](screenshots/powerbi/03-customer-retention.png)
 
 ### 4. Customer Trends & Performance
-![Customer Trends & Performance](./Screenshots/powerbi/04-customer-trends.png)
+![Customer Trends & Performance](screenshots/powerbi/04-customer-trends.png)
 
 ### 5. Geographic Market Analysis
-![Geographic Market Analysis](./Screenshots/powerbi/05-geographic-analysis.png)
+![Geographic Market Analysis](screenshots/powerbi/05-geographic-analysis.png)
 
 
