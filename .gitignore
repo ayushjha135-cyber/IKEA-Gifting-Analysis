@@ -1,0 +1,21 @@
+# Raw and processed datasets
+data/*.csv
+data/**/*.csv
+data/*.xlsx
+data/**/*.xlsx
+
+# Python temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credentials
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
